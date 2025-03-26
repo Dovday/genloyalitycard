@@ -1,0 +1,25 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+## Design Guidelines for Digital Card Wallet
+
+• Use Tailwind CSS for styling with a variable-based color system
+• Generate responsive designs that work well across different devices
+• Implement a clean, modern UI using shadcn/ui components
+• Ensure text is legible by using appropriate color contrast
+• Use semantic HTML elements for better accessibility
+• Add appropriate ARIA roles and attributes for screen readers
+• Provide clear visual feedback for interactive elements
+• Use consistent spacing and alignment throughout the interface
+• Implement proper error handling with clear user feedback
+• Create a visually appealing design while maintaining functionality
+• Use subtle visual effects to enhance the design without compromising usability
+• Ensure form elements have proper labels and instructions
+• Provide clear status indicators for asynchronous operations
+• Maintain a consistent design language across all components
+• Use appropriate animations and transitions for a polished feel
+• Organize the layout with a clear visual hierarchy
+• Ensure the application is usable across different screen sizes
